@@ -1,0 +1,11 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_RTVT\DemoRTVT\bin\Debug\netcoreapp2.1\DemoRTVT.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_RTVT\DemoRTVT\bin\Debug\netcoreapp2.1\DemoRTVT.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_RTVT\DemoRTVT\bin\Debug\netcoreapp2.1\DemoRTVT.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_RTVT\DemoRTVT\bin\Debug\netcoreapp2.1\DemoRTVT.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_RTVT\DemoRTVT\bin\Debug\netcoreapp2.1\DemoRTVT.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_RTVT\DemoRTVT\obj\Debug\netcoreapp2.1\DemoRTVT.csprojAssemblyReference.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_RTVT\DemoRTVT\obj\Debug\netcoreapp2.1\DemoRTVT.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_RTVT\DemoRTVT\obj\Debug\netcoreapp2.1\DemoRTVT.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_RTVT\DemoRTVT\obj\Debug\netcoreapp2.1\DemoRTVT.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_RTVT\DemoRTVT\obj\Debug\netcoreapp2.1\DemoRTVT.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_RTVT\DemoRTVT\obj\Debug\netcoreapp2.1\DemoRTVT.pdb
